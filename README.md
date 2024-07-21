@@ -1,6 +1,6 @@
 # Samsung Innovation Campus - Coding and Programming Course (Python)
 
-Welcome to the **Samsung Innovation Campus Coding and Programming Course** repository! This repository is designed to assist you as you study Python, providing a comprehensive guide through the course's syllabus.
+Welcome to my personal repository for the **Samsung Innovation Campus Coding and Programming Course**! This repository is for my own use to organize notes, assignments, and materials as I progress through the course.
 
 ## Course Syllabus
 
